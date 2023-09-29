@@ -1,3 +1,4 @@
+// Adding and Deleting of element through LINKED LIST
 package assigment;
 class Node {
     int data;
