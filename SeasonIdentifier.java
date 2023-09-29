@@ -1,3 +1,4 @@
+// switch case Program to identify the month in which season they fall into
 package assigment;
 
 import java.util.Scanner;
